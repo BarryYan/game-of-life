@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#app{
+    text-align: center;
+}
+canvas{
+    margin: 10px auto;
+    /* width: 800px; */
+    /* height: 800px; */
+    /* border: 1px solid #ccc; */
+}
